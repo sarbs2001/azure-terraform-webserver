@@ -178,3 +178,4 @@ resource "azurerm_linux_virtual_machine" "s1_vm" {
   }
 }
 
+

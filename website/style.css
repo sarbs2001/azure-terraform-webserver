@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+    background-color: light red;
+}
+
+.container div {
+    background-color: white;
+    margin: 10px;
+    padding: 10px;
+    font-size: 12px;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    border: 3px solid black;
+}
